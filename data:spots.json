@@ -1,0 +1,15 @@
+[
+  {"country_iso2":"IT","country_ja":"イタリア","name":"ローマ歴史地区","tags":["世界遺産","都市散策","歴史"],"best_months":"4-6,9-10","lat":41.89,"lng":12.49,"summary":"コロッセオやフォロ・ロマーノなど古代遺跡が集中。徒歩観光に最適。","type":"heritage"},
+  {"country_iso2":"IT","country_ja":"イタリア","name":"フィレンツェ歴史地区","tags":["世界遺産","美術","都市散策"],"best_months":"4-6,9-10","lat":43.77,"lng":11.25,"summary":"ルネサンス芸術の中心地。ウフィツィやドゥオモが見どころ。","type":"heritage"},
+  {"country_iso2":"FR","country_ja":"フランス","name":"モン・サン＝ミシェル","tags":["世界遺産","景観","写真映え"],"best_months":"4-6,9-10","lat":48.64,"lng":-1.51,"summary":"海に浮かぶ修道院。干満差による表情の変化が魅力。","type":"heritage"},
+  {"country_iso2":"FR","country_ja":"フランス","name":"パリ美食体験","tags":["料理","都市散策","文化"],"best_months":"5-10","lat":48.86,"lng":2.35,"summary":"ビストロからパティスリーまで多彩。食の体験を中心に。","type":"food"},
+  {"country_iso2":"ES","country_ja":"スペイン","name":"サグラダ・ファミリア","tags":["世界遺産","建築","都市散策"],"best_months":"4-6,9-10","lat":41.403,"lng":2.174,"summary":"ガウディの未完の大聖堂。光の演出が圧巻。","type":"heritage"},
+  {"country_iso2":"TH","country_ja":"タイ","name":"アユタヤ歴史公園","tags":["世界遺産","歴史","写真映え"],"best_months":"11-2","lat":14.35,"lng":100.57,"summary":"王朝の遺跡群。日帰りでも満足度が高い。","type":"heritage"},
+  {"country_iso2":"TH","country_ja":"タイ","name":"バンコク屋台グルメ","tags":["料理","ナイトライフ","都市散策"],"best_months":"11-2","lat":13.75,"lng":100.5,"summary":"屋台で手軽に本場の味。夜市散策とセットで。","type":"food"},
+  {"country_iso2":"KR","country_ja":"韓国","name":"景福宮と韓屋街","tags":["歴史","写真映え","都市散策"],"best_months":"4-6,9-10","lat":37.58,"lng":126.98,"summary":"王宮と伝統家屋のコントラストを楽しむ。","type":"culture"},
+  {"country_iso2":"VN","country_ja":"ベトナム","name":"ハロン湾","tags":["世界遺産","自然","クルーズ"],"best_months":"10-4","lat":20.91,"lng":107.18,"summary":"石灰岩の奇岩が点在する絶景湾。日帰り〜1泊クルーズ。","type":"heritage"},
+  {"country_iso2":"US","country_ja":"アメリカ合衆国","name":"グランドキャニオン国立公園","tags":["自然","ハイキング","世界遺産"],"best_months":"4-6,9-10","lat":36.06,"lng":-112.14,"summary":"地球の歴史を感じる断崖。ビューポイント巡りが定番。","type":"nature"},
+  {"country_iso2":"CA","country_ja":"カナダ","name":"バンクーバー都市と自然","tags":["都市散策","自然","食"],"best_months":"5-9","lat":49.28,"lng":-123.12,"summary":"シーウォール散歩と多国籍グルメが魅力。","type":"mixed"},
+  {"country_iso2":"AU","country_ja":"オーストラリア","name":"シドニー・オペラハウス","tags":["世界遺産","都市散策","建築"],"best_months":"9-11,3-5","lat":-33.86,"lng":151.21,"summary":"ハーバーの風景とセットで楽しむ象徴的建築。","type":"heritage"},
+  {"country_iso2":"NZ","country_ja":"ニュージーランド","name":"ミルフォード・サウンド","tags":["自然","クルーズ","写真映え"],"best_months":"11-3","lat":-44.67,"lng":167.93,"summary":"峡湾クルーズで滝と断崖を間近に。","type":"nature"}
+]

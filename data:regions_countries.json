@@ -1,0 +1,20 @@
+{
+  "Europe": [
+    {"name_ja":"イタリア","name_en":"Italy","iso2":"IT","hub_city":"Rome","iata":"FCO","flag":"🇮🇹"},
+    {"name_ja":"フランス","name_en":"France","iso2":"FR","hub_city":"Paris","iata":"CDG","flag":"🇫🇷"},
+    {"name_ja":"スペイン","name_en":"Spain","iso2":"ES","hub_city":"Madrid","iata":"MAD","flag":"🇪🇸"}
+  ],
+  "Asia": [
+    {"name_ja":"タイ","name_en":"Thailand","iso2":"TH","hub_city":"Bangkok","iata":"BKK","flag":"🇹🇭"},
+    {"name_ja":"韓国","name_en":"Korea, Republic of","iso2":"KR","hub_city":"Seoul","iata":"ICN","flag":"🇰🇷"},
+    {"name_ja":"ベトナム","name_en":"Vietnam","iso2":"VN","hub_city":"Hanoi","iata":"HAN","flag":"🇻🇳"}
+  ],
+  "North America": [
+    {"name_ja":"アメリカ合衆国","name_en":"United States","iso2":"US","hub_city":"Los Angeles","iata":"LAX","flag":"🇺🇸"},
+    {"name_ja":"カナダ","name_en":"Canada","iso2":"CA","hub_city":"Vancouver","iata":"YVR","flag":"🇨🇦"}
+  ],
+  "Oceania": [
+    {"name_ja":"オーストラリア","name_en":"Australia","iso2":"AU","hub_city":"Sydney","iata":"SYD","flag":"🇦🇺"},
+    {"name_ja":"ニュージーランド","name_en":"New Zealand","iso2":"NZ","hub_city":"Auckland","iata":"AKL","flag":"🇳🇿"}
+  ]
+}
